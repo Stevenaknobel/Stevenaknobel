@@ -11,6 +11,7 @@ I'm currently learning HTML, CSS and Javascript through Codespace's Software Dev
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50px" height="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50px" height="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width="50px" height="50px"/>
 
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevenaknobel)](https://github.com/anuraghazra/hithub-readme-stats)
 <!--
 **Stevenaknobel/Stevenaknobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
