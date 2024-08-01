@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I am Steven Knobel
 
+---
+
+I'm a fund accountant specialized in Real Estate funds coming out of Luxembourg, focusing on data migrations.
+
+I'm currently learning HTML, CSS and Javascript through Codespace's Software Development Program.
 <!--
 **Stevenaknobel/Stevenaknobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
